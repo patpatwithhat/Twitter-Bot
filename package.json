@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot to get all Elon posts",
+  "main": "bot.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patpatwithhat/Twitter-Bot.git"
+  },
+  "author": "patpatwithhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patpatwithhat/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/patpatwithhat/Twitter-Bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "iobroker.whatsapp-cmb": "^0.1.6",
+    "twit": "^2.2.11"
+  }
+}
