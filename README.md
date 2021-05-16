@@ -38,7 +38,7 @@ Look for a hashtag and get the last 10 tweets
         };
 ```
 
-#Note
+# Note
 All tweets get collected into one message sent by cmb due to cmb only allowing 25 messages per 240 minutes.<br>
 If this changes someday, you could also send every tweet in one message.<br>
 
