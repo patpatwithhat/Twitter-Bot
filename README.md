@@ -45,5 +45,5 @@ If this changes someday, you could also send every tweet in one message.
 In the params.json the id of the last tweets gets saved to not redirect the same tweet multiple times.
 
 # Sources
-Check out for a basic understanding of the Twitter API: Level Up Developer: https://www.youtube.com/watch?v=0gFzUYSbJwY
+Check out for a basic understanding of the Twitter API: Level Up Developer: https://www.youtube.com/watch?v=0gFzUYSbJwY <br>
 Used for WhatsApp connection: https://www.callmebot.com/blog/free-api-whatsapp-messages/
