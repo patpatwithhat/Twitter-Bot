@@ -44,6 +44,11 @@ If this changes someday, you could also send every tweet in one message.<br>
 
 In the params.json the id of the last tweets gets saved to not redirect the same tweet multiple times.<br>
 
+# Run on e.g. a PI
+If you want to run this as a bot for example on a raspberry, check out this post: <br>
+https://stackoverflow.com/questions/4681067/how-do-i-run-a-node-js-application-as-its-own-process/28542093#28542093 <br>
+You have to set "chmod +rwx" for bot.js and params.json to execute the bot and write to params.json.
+
 # Sources
 Check out for a basic understanding of the Twitter API: Level Up Developer: https://www.youtube.com/watch?v=0gFzUYSbJwY <br>
 Used for WhatsApp connection: https://www.callmebot.com/blog/free-api-whatsapp-messages/<br>
